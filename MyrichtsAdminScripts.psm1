@@ -72,7 +72,6 @@ function Set-Hypervisor {
     }
     END {}
 }
-}
 
 Export-ModuleMember -Function Set-Hypervisor
 
